@@ -5,5 +5,8 @@ An LC & RLC circuit is an electrical circuit consisting of an inductor (L), and 
 
 Demo on Youtube: 
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/rS6chtr0Z88">
-</iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/rS6chtr0Z88" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
