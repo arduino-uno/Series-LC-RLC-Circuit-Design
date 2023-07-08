@@ -4,4 +4,6 @@ An LC & RLC circuit is an electrical circuit consisting of an inductor (L), and 
 <img src = 'https://raw.githubusercontent.com/arduino-uno/series-rc-rlc-circuit-design/main/250px-RLC_series_circuit_v1.svg.png'>
 
 Demo on Youtube: 
-[![Simulated Circuits]](https://www.youtube.com/watch?v=rS6chtr0Z88)
+
+<iframe width="420" height="345" src="https://www.youtube.com/embed/rS6chtr0Z88">
+</iframe>
